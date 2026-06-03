@@ -1037,7 +1037,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 					</head>
 					<body class="retro-shell">
 						<h1 class="retro-title">Tic Tac Toe</h1>
-						
+
 						<div class="layout">
 							<div class="game-column">
 								<section class="panel">
