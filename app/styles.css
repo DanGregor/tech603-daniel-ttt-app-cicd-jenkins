@@ -44,7 +44,7 @@ body::before {
 .retro-title {
 	color: var(--text-strong);
 	margin: 0 0 6px;
-	letter-spacing: 1px;
+	letter-spacing: 8px;
 	text-align: center;
 }
 
