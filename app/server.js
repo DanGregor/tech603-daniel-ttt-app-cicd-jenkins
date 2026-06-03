@@ -1037,6 +1037,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 					</head>
 					<body class="retro-shell">
 						<h1 class="retro-title">Tic Tac Toe</h1>
+						<p>CI/CD Test 1 - 03 June 2026 14:35</p>
 						<div class="layout">
 							<div class="game-column">
 								<section class="panel">
@@ -1064,7 +1065,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 								</section>
 							</div>
 						</div>
-						<p class="page-footer">Copyright © 2026 Sparta Global- CICD Test 1 03/06/2026 14:30</p>
+						<p class="page-footer">Copyright © 2026 Sparta Global</p>
 						<p class="mode-pill">Mode: ${mode.modeLabel}</p>
 						<script src="/app.js"></script>
 					</body>
