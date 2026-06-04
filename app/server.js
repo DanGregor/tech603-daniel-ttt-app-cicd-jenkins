@@ -1067,7 +1067,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 						</div>
 						<p class="page-footer">Copyright © 2026 Sparta Global</p>
 						<p class="mode-pill">Mode: ${mode.modeLabel}</p>
-						<p class="deploy-time">Deployment: 04/06/2026 13:45</p>
+						<p>Deployment: 04/06/2026 13:45</p>
 						<script src="/app.js"></script>
 					</body>
 				</html>
