@@ -726,3 +726,15 @@ document.addEventListener('DOMContentLoaded', async () => {
 	renderState(state.game);
 	await renderScoreboard();
 });
+
+window.addEventListener('load', () => {
+    const timestamp = document.createElement('p');
+
+    timestamp.textContent = 'Deployment: 04/06/2026 14:10';
+
+    timestamp.style.textAlign = 'center';
+    timestamp.style.fontWeight = 'bold';
+    timestamp.style.marginTop = '10px';
+
+    document.body.appendChild(timestamp);
+});
