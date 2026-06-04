@@ -730,7 +730,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 window.addEventListener('load', () => {
     const timestamp = document.createElement('p');
 
-    timestamp.textContent = 'Deployment: 04/06/2026 14:10';
+    timestamp.textContent = 'Deployment: 04/06/2026 14:14';
 
     timestamp.style.textAlign = 'center';
     timestamp.style.fontWeight = 'bold';
