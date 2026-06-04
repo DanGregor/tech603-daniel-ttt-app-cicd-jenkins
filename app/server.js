@@ -1032,7 +1032,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 						<meta charset="UTF-8" />
 						<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 						<meta name="use-marker-images" content="${mode.markerImageToggleEnabled ? 'true' : 'false'}" />
-						<title>Sparta App - 04/06/2026 13:30</title>
+						<title>Sparta App - 04/06/2026 13:40</title>
 						<link rel="stylesheet" href="/styles.css" />
 					</head>
 					<body class="retro-shell">
@@ -1065,7 +1065,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 								</section>
 							</div>
 						</div>
-						<p class="page-footer">Copyright © 2026 Sparta Global</p>
+						<p class="page-footer">Copyright © 2026 Sparta Global - 04/06/2026 13:45</p>
 						<p class="mode-pill">Mode: ${mode.modeLabel}</p>
 						<script src="/app.js"></script>
 					</body>
